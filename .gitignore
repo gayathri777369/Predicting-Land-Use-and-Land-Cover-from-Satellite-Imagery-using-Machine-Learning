@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Model Files
+models/*.pth
+models/*.pkl
+
+# Dataset or Large Files
+data/
+datasets/
+
+# Streamlit Cache
+.streamlit/
+
+# System Files
+.DS_Store
+Thumbs.db
